@@ -1,0 +1,39 @@
+0  |Subject: 2 RCPT MIME
+1  |From: bob <bob@example.com>
+2  |To: xxx@example.net, yyy@example.net
+3  |Content-Type: multipart/alternative; boundary="=-omjqkVTVbwdgCWFRgIkx"
+4  |Date: Wed, 02 Jun 2010 11:06:27 +0800
+5  |Message-ID: <1275447987.2063.842.camel@pony>
+6  |Mime-Version: 1.0
+7  |X-Mailer: Evolution 2.28.3 
+8  |Received: from is-atl03.i.smailru.net (is-atl03.i.smailru.net [5.61.236.37])
+9  |  by is-atl02.i.mail.ru (Postfix) with ESMTP id 964D810071
+10 |  for <xxx@example.com>; Mon, 12 Mar 2018 19:18:21 +0300 (MSK)
+11 |
+12 |
+13 |--=-omjqkVTVbwdgCWFRgIkx
+14 |Content-Type: text/plain; charset="UTF-8"
+15 |Content-Transfer-Encoding: 8bit
+16 |
+17 |Превел
+18 |
+19 |123
+20 |
+21 |--=-omjqkVTVbwdgCWFRgIkx
+22 |Content-Type: text/html; charset="utf-8"
+23 |Content-Transfer-Encoding: 7bit
+24 |
+25 |<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 TRANSITIONAL//EN">
+26 |<HTML>
+27 |<HEAD>
+28 |  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=UTF-8">
+29 |  <META NAME="GENERATOR" CONTENT="GtkHTML/3.28.3">
+30 |</HEAD>
+31 |<BODY>
+32 |<B>&#1055;&#1088;&#1077;&#1074;&#1077;&#1083;</B><BR>
+33 |<BR>
+34 |123
+35 |</BODY>
+36 |</HTML>
+37 |
+38 |--=-omjqkVTVbwdgCWFRgIkx--
